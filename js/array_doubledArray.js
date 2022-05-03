@@ -48,7 +48,7 @@ function maps4(x){
     
         for (const i in x) {
             const number = x[i];
-        doubled.push(number * 2)
+            doubled.push(number * 2)
         }
         return doubled
     }

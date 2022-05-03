@@ -1,4 +1,4 @@
-// REPLACE
+// REPLACE one element /!$/
 
 function remove(string) {
     
