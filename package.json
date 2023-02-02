@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./js/class_constructor_basic.js",
+    "dev": "nodemon ./js/id_get_multipleElements.js",
+    "dev2": "nodemon ./js_codeCamp/test_and_match.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
